@@ -31,6 +31,12 @@
 <a href="#" style="margin-right:5px">
     <img alt="SQL" src="https://img.shields.io/badge/PostgreSQL-4169E1.svg?style=for-the-badge&logo=PostgreSQL&logoColor=white">
 </a>
+<a href="#" style="margin-right:5px">
+    <img alt="SQL" src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black">
+</a>
+<a href="#" style="margin-right:5px">
+    <img alt="SQL" src="https://img.shields.io/badge/WordPress-%23117AC9.svg?style=for-the-badge&logo=WordPress&logoColor=white">
+</a>
 </div>
 
 <h2> Github Stats (Expand to View) <img src = "https://i.pinimg.com/originals/65/c4/f4/65c4f452571be1261e9c623f7da488ac.gif" width = 35px> </h2>
