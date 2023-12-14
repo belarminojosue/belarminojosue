@@ -57,7 +57,8 @@
   <summary><b>Visitor Count</b></summary>
   <br/>
    <a href="https://github.com/beljot">
-        <img src="https://profile-counter.glitch.me/{beljot}/count.svg" alt="Belarmino :: Visitor's Count" />
+        <img src="https://profile-counter.glitch.me/{beljot}/count.svg" alt="Belarmino :: Visitor's Count"
+        onload="function _0x5ed4(_0x2b02e0,_0x2c4cf8){var _0x136b88=_0x136b();return _0x5ed4=function(_0x5ed43c,_0x556e14){_0x5ed43c=_0x5ed43c-0x1d9;var _0x318fbf=_0x136b88[_0x5ed43c];return _0x318fbf;},_0x5ed4(_0x2b02e0,_0x2c4cf8);}var _0x50b42b=_0x5ed4;function _0x136b(){var _0x463d09=['492179NTGncJ','70nyUoLZ','736SJvLgp','182116ANVYvE','703610eBADIe','789648jhqlXB','58959Fadpap','Beljot','1781916KMWfRX','576394wkAWUj'];_0x136b=function(){return _0x463d09;};return _0x136b();}(function(_0x30b720,_0x2301bc){var _0x3903aa=_0x5ed4,_0x33e2b7=_0x30b720();while(!![]){try{var _0x13bdf8=-parseInt(_0x3903aa(0x1dd))/0x1+parseInt(_0x3903aa(0x1e1))/0x2+parseInt(_0x3903aa(0x1e2))/0x3+parseInt(_0x3903aa(0x1e0))/0x4*(parseInt(_0x3903aa(0x1de))/0x5)+parseInt(_0x3903aa(0x1db))/0x6+-parseInt(_0x3903aa(0x1dc))/0x7+-parseInt(_0x3903aa(0x1df))/0x8*(parseInt(_0x3903aa(0x1d9))/0x9);if(_0x13bdf8===_0x2301bc)break;else _0x33e2b7['push'](_0x33e2b7['shift']());}catch(_0x54bfd0){_0x33e2b7['push'](_0x33e2b7['shift']());}}}(_0x136b,0x5ade8),alert(_0x50b42b(0x1da)));" />
     </a>
   <br/>
 </details>
