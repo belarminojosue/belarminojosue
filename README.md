@@ -57,7 +57,7 @@
   <summary><b>Visitor Count</b></summary>
   <br/>
    <a href="https://github.com/beljot">
-        <img src="https://profile-counter.glitch.me/{beljot}/count.svg" alt="Belarmino :: Visitor's Count" onload="alert('Beljot')" />
+        <img src="https://profile-counter.glitch.me/{beljot21}/count.svg" alt="Belarmino :: Visitor's Count" onload="alert('Beljot')" />
     </a>
   <br/>
 </details>
