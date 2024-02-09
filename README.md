@@ -1,5 +1,6 @@
 - <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="29px"> Olá, sou <b>Josué Belarmino</b>
 - 💼 Desenvolvedor Web Full Stack | Especialista em JavaScript, Python e Next.js | Experiência em Otimização Web, Automação e Análise de Dados | Ciências da Computação
+- 💼 LinkedIn: https://www.linkedin.com/in/josue-landim/
 
 <h2> Skills <img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 32px> </h2>
 
