@@ -46,10 +46,10 @@
   <summary><b>💻 GitHub Profile Stats</b></summary>
   <br/>
   <p align="center">
-    <a href="https://github.com/beljot/github-readme-stats"><img alt="beljot Github Stats" src="https://github-readme-stats.vercel.app/api?username=beljot&show_icons=true&count_private=true&theme=algolia" height="192px"/></a>
+    <a href="https://github.com/belarminojosue/github-readme-stats"><img alt="belarminojosue Github Stats" src="https://github-readme-stats.vercel.app/api?username=belarminojosue&show_icons=true&count_private=true&theme=algolia" height="192px"/></a>
 <br/>
   &nbsp;
-	  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=beljot&show_icons=true&locale=en&layout=compact&theme=algolia" alt="beljot" height="192px"/>
+	  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=belarminojosue&show_icons=true&locale=en&layout=compact&theme=algolia" alt="belarminojosue" height="192px"/>
   <br/>
   </p>
 </details>
@@ -57,8 +57,8 @@
 <details>
   <summary><b>Visitor Count</b></summary>
   <br/>
-   <a href="https://github.com/beljot">
-        <img src="https://profile-counter.glitch.me/{beljot}/count.svg" alt="Belarmino :: Visitor's Count" onload="alert('Beljot')" />
+   <a href="https://github.com/belarminojosue">
+        <img src="https://profile-counter.glitch.me/{belarminojosue}/count.svg" alt="Belarmino :: Visitor's Count" onload="alert('belarminojosue')" />
     </a>
   <br/>
 </details>
